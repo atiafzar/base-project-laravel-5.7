@@ -1,6 +1,7 @@
 # base-project-laravel-5.7
 a custom version of laravel 5.7
 
+
 a custom version of laravel 5.7 with this feature and plugins:
 enabled auth
 added (  \Schema::defaultStringLength(191);) to app/providers/appServiceProvider
